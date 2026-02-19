@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58a6ff&height=200&section=header&text=Divita%20Phadakale&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Systems%20Engineer&descAlignY=58&descColor=79c0ff&animation=fadeIn" width="100%" />
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=60&lines=MS+Computer+Science+%40+CU+Boulder+%7C+GPA+3.8;Java+·+Distributed+Systems+·+Cloud+Computing+·+Low-level+C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=60&lines=Divita+Phadakale;MS+Computer+Science+%40+CU+Boulder+%7C+GPA+3.8;Java+%C2%B7+Distributed+Systems+%C2%B7+Cloud+Computing+%C2%B7+Low-level+C)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divitaphadakale-304120168)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://divitap.github.io/portfolio/)
@@ -19,8 +13,6 @@
 ---
 
 ### About Me
-
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=DivitaP&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&rank_icon=github" />
 
 I'm a backend and systems engineer with **2+ years of industry experience** at TIAA (one of the largest US financial services firms), where I built and optimized Java microservices that improved API performance and reduced processing times at scale.
 
@@ -36,8 +28,6 @@ String prev     = "Software Developer Analyst @ TIAA GBS (FinTech)";
 String current  = "MS CS @ CU Boulder · GPA 3.8";
 String research = "Blockchain · Compute Security · Backend Development";
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -73,7 +63,7 @@ String research = "Blockchain · Compute Security · Backend Development";
 
 **Systems & Networking**
 
-![POSIX](https://img.shields.io/badge/POSIX_Sockets_(TCP%2FUDP)-0d1117?style=for-the-badge&logo=linux&logoColor=white)
+![POSIX](https://img.shields.io/badge/POSIX_Sockets_TCP%2FUDP-0d1117?style=for-the-badge&logo=linux&logoColor=white)
 ![pthreads](https://img.shields.io/badge/pthreads-0d1117?style=for-the-badge&logo=linux&logoColor=79c0ff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
@@ -159,14 +149,14 @@ A technical deep-dive into locking strategy, O(1) operations, TTL design, and co
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivitaP&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivitaP&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DivitaP&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff" />
+![Stats](https://github-readme-stats.vercel.app/api?username=DivitaP&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivitaP&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=DivitaP&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff)
+
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a1f2e,100:0d1117&height=100&section=footer" width="100%" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a1f2e,100:0d1117&height=100&section=footer)
