@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=60&lines=Divita+Phadakale;MS+Computer+Science+%40+CU+Boulder+%7C+GPA+3.8;Java+%C2%B7+Distributed+Systems+%C2%B7+Cloud+Computing+%C2%B7+Low-level+C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Divita+Phadakale;MS+Computer+Science+%40+CU+Boulder+%7C+GPA+3.8;Java+%C2%B7+Distributed+Systems+%C2%B7+Cloud+Computing+%C2%B7+Low-level+C)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divitaphadakale-304120168)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://divitap.github.io/portfolio/)
