@@ -18,7 +18,7 @@ I'm a backend and systems engineer with **2+ years of industry experience** at T
 
 Now pursuing my **MS in Computer Science at CU Boulder** (GPA 3.8), specializing in Software Systems and Cloud Computing. I've expanded into low-level systems work in C, concurrent data structures, and applied ML — bridging the gap between high-level product engineering and systems fundamentals.
 
-Beyond engineering, I've served as a **Teaching Assistant** at CU Boulder, stepping up to lecture 150+ students on Dijkstra's Algorithm. I also have published research in **blockchain-based royalty distribution** for the music industry.
+Beyond engineering, I've served as a **Course Grader** at CU Boulder, from the past 3 semesters for the course CSCI-4448/5448 - Object Oriented Analysis and Design. I also have published research in **blockchain-based royalty distribution** for the music industry.
 
 I write technical deep-dives on what I build over on [Medium](https://medium.com/@divitaphadakale21).
 
