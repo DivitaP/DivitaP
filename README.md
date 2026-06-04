@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Divita+Phadakale;MS+Computer+Science+%40+CU+Boulder+%7C+GPA+3.8;Java+%C2%B7+Distributed+Systems+%C2%B7+Cloud+Computing+%C2%B7+Low-level+C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Divita+Phadakale;MS+Computer+Science+%40+CU+Boulder+%7C+GPA+3.84;Java+%C2%B7+Distributed+Systems+%C2%B7+Cloud+Computing+%C2%B7+Low-level+C)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divitaphadakale-304120168)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://divitap.github.io/portfolio/)
@@ -14,11 +14,11 @@
 
 ### About Me
 
-I'm a backend and systems engineer with **2+ years of industry experience** at TIAA (one of the largest US financial services firms), where I built and optimized Java microservices that improved API performance and reduced processing times at scale.
+I'm a backend and systems engineer with **2+ years of industry experience** at TIAA (one of the largest US financial services firms), where I built and optimized Java microservices that improved API performance and reduced processing times at scale. I've also worked as a Full Stack Engineer intern at Ascend Cargo Systems building monolithic applications in Java SpringBoot, Hibernate, React.
 
-Now pursuing my **MS in Computer Science at CU Boulder** (GPA 3.8), specializing in Software Systems and Cloud Computing. I've expanded into low-level systems work in C, concurrent data structures, and applied ML — bridging the gap between high-level product engineering and systems fundamentals.
+Now pursuing my **MS in Computer Science at CU Boulder** (GPA 3.84), specializing in Software Systems and Cloud Computing. I've expanded into low-level systems work in C, concurrent data structures, and applied ML — bridging the gap between high-level product engineering and systems fundamentals.
 
-Beyond engineering, I've served as a **Course Grader** at CU Boulder, from the past 3 semesters for the course CSCI-4448/5448 - Object Oriented Analysis and Design. I also have published research in **blockchain-based royalty distribution** for the music industry.
+Beyond engineering, I've served as a **Course Grader** at CU Boulder, for all 4 semesters for the course CSCI-4448/5448 - Object Oriented Analysis and Design. I also have published research in **blockchain-based royalty distribution** for the music industry.
 
 I write technical deep-dives on what I build over on [Medium](https://medium.com/@divitaphadakale21).
 
@@ -39,6 +39,7 @@ String research = "Blockchain · Compute Security · Backend Development";
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Go]
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -76,48 +77,75 @@ String research = "Blockchain · Compute Security · Backend Development";
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h4><a href="https://github.com/DivitaP/adaptive-api-shield">Adaptive API Shield</a></h4>
+      <p>Event-driven API protection platform with adaptive rate limiting, behavioral trust scoring, and AI-assisted incident analysis. Hot path enforces in &lt;5ms via Redis; cold path streams anomalies through Kafka to a Groq-powered LLM analyzer — AI never blocks a request.</p>
+      <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Groq_LLM-58a6ff?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/DivitaP/kv-cache-framework-real">KV-Cache Eviction Framework</a></h4>
+      <p>Benchmarks KV-cache eviction policies (LRU, LFU, and more) using real Llama 3.1-8B inference — actual PyTorch tensors moving across GPU, CPU, and disk tiers. All latencies measured with CUDA synchronization. Run on CU Boulder's Alpine HPC cluster.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Llama_3.1_8B-58a6ff?style=flat-square"/>
+      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/DivitaP/fraud-rag">Fraud Detection RAG System</a></h4>
+      <p>RAG pipeline for fraud analyst Q&A — ask whether a transaction is suspicious and get a cited, policy-backed answer. Local embeddings via sentence-transformers, in-memory cosine similarity search, and Groq (Llama 3.3 70B) for grounded generation. Go HTTP API wraps a Python ML sidecar.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Groq_LLM-58a6ff?style=flat-square"/>
+      <img src="https://img.shields.io/badge/RAG-79c0ff?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/DivitaP/thread-safe-lru-cache">Thread-Safe LRU Cache</a></h4>
       <p>O(1) LRU cache built with <code>ReentrantReadWriteLock</code>, TTL eviction, and <code>AtomicLong</code> stats — designed for high-concurrency workloads.</p>
       <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Concurrency-58a6ff?style=flat-square"/>
       <br/><a href="https://medium.com/@divitaphadakale21/building-a-thread-safe-lru-cache-from-scratch-in-java-17-2f05abdfb237">Read the writeup on Medium</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/DivitaP/HTTP-Proxy-Cache-Server">HTTP Proxy Cache Server</a></h4>
       <p>Multithreaded HTTP proxy in C with caching, link prefetching, and regex-based site blocking — implemented with pthreads and raw sockets.</p>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/pthreads-0d1117?style=flat-square&logo=linux&logoColor=white"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/DivitaP/Distributed-File-System">Distributed File System</a></h4>
       <p>Client-server DFS over TCP with replication, chunking, and fault tolerance. Full systems-level implementation in C.</p>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/TCP_Sockets-58a6ff?style=flat-square"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/DivitaP/UDP-File-Transfer-System">UDP File Transfer System</a></h4>
       <p>Reliable file transfer over raw UDP with ACKs, 16KB chunking, and timeout-based retransmission from scratch.</p>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/UDP-58a6ff?style=flat-square"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/DivitaP/temporal-minds">Temporal Chatbot — Alan Turing</a></h4>
       <p>Knowledge graph chatbot grounded in Neo4j, restricted to Turing's lifetime. Achieves 93% historical accuracy using GPT.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/DivitaP/Cyber-Attack-Detection">Cyber-Attack Detection (RL)</a></h4>
       <p>Real-time DDoS detection using Q-learning (TensorFlow). Traffic simulated in Kali Linux and analyzed with Wireshark.</p>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/Q--Learning-58a6ff?style=flat-square"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/DivitaP/url-shortener">URL Shortener API</a></h4>
       <p>Production-grade REST API with click tracking, link expiry, and Spring Actuator observability. Fully containerized with Docker.</p>
@@ -125,12 +153,15 @@ String research = "Blockchain · Compute Security · Backend Development";
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/DivitaP/java-tower-defense-game">Tower Defense: Design Patterns</a></h4>
       <p>Java game built to demonstrate 13 design patterns including Strategy, Observer, and Factory — with Swing-based rendering.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Design_Patterns-58a6ff?style=flat-square"/>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
